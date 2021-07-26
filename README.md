@@ -1,2 +1,2 @@
 # gb-vue-simple-videoplayer
-Simple video player for VueJS using HTML5 Video API.
+Simple VueJS video player using HTML5 Video API.
